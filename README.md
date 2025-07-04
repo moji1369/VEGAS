@@ -6,4 +6,4 @@ bathymetry estimation
 
 Reference: 
 
-M. Forghani et al., “Variational encoder geostatistical analysis (VEGAS) with an application to large scale riverine bathymetry”, submitted (2021). https://arxiv.org/abs/2111.11719
+M. Forghani et al., “Variational encoder geostatistical analysis (VEGAS) with an application to large scale riverine bathymetry”, Advances in Water Resources 170, 104323 (2022). [https://arxiv.org/abs/2111.11719](https://www.sciencedirect.com/science/article/abs/pii/S0309170822001865)
